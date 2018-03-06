@@ -1,0 +1,9 @@
+
+.icon-comment:before { content: '\e800'; } /* '' */
+.icon-phone:before { content: '\e801'; } /* '' */
+.icon-videocam:before { content: '\e802'; } /* '' */
+.icon-star:before { content: '\e803'; } /* '' */
+.icon-th:before { content: '\e804'; } /* '' */
+.icon-users:before { content: '\e805'; } /* '' */
+.icon-clock:before { content: '\e806'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */

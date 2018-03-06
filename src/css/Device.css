@@ -1,0 +1,60 @@
+.device{
+    border: 1px solid rgba(93,93,93,0.7);
+    border-radius : 15px;
+    margin : 0 auto;
+    margin-top : 30px;
+    margin-bottom: 30px;
+    width : 190px;
+    height : 350px;
+    box-shadow: 0.3px 0.3px 0px black;
+}
+
+
+#sec_light{
+    height : 10px;
+    margin-top : 3px;
+}
+
+#sec_sec{
+    display : flex;
+}
+
+#sec_fcamera{
+    border:1px solid black;
+    background-color : black;
+    border-radius: 100%;
+    margin-left : 66px;
+    height : 4.8px;
+    width : 5px;
+    position : relative;
+    bottom: 1.2px;
+}
+
+#sec_speaker{
+    background-color : black;
+    border-radius : 10px;
+    margin-top : 1px;
+    margin-left : 9px;
+    height : 3px;
+    width : 30px;
+}
+
+#detect_light{
+    border:1px solid black;
+    border-radius: 100%;
+    background-color : black;
+    width : 3px;
+    height : 3px;
+    margin-left : 95px;
+    margin-top : 3px;
+}
+
+#button_home{
+    position : relative;
+    bottom : 4px;
+    left : 82px;
+    border : 1.2px solid rgba(93,93,93,0.7);
+    border-radius : 100%;
+    padding-left : 12px;
+    padding-right : 12px;
+}

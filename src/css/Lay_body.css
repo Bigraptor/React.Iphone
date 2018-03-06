@@ -1,0 +1,127 @@
+.back_body{
+    height : 226px;
+}
+
+.back_dock{
+    height : 31px;
+    display:flex;
+    background-color: rgba(255,255,255,0.3);
+}
+
+.icon_phone{
+    border-radius: 10px;
+    margin : 3px 7px;
+    width : 30px;
+    background-image : url("https://cdn.clien.net/web/api/file//F01/5931206/a7d2f5e18c624.jpg");
+    background-size : 30px 27px;
+}
+
+.icon_message{
+    border-radius: 10px;
+    margin : 3px 7px;
+    width : 30px;
+    background-image : url("http://cdn.osxdaily.com/wp-content/uploads/2014/11/Messages-icon-300x300.png");
+    background-size : 30px 27px;
+}
+
+.icon_katalk{
+    border-radius: 10px;
+    margin : 3px 7px;
+    width : 30px;
+    background-image : url("http://cfile2.uf.tistory.com/image/163D8D1F4CA297AE70C9EB");
+    background-size : 30px 27px;
+}
+
+.icon_melon{
+    border-radius: 10px;
+    margin : 3px 7px;
+    width : 30px;
+    background-image : url("https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/R2L/image/DwFFn0rTOkQxX8s79lVB4KK-cJM.png");
+    background-size : 30px 27px;
+}
+/*/////////////////////////////////////////////*/
+.detail_undermenu{
+    border-top : 0.4px solid gray;
+    font-size:11px;
+    padding : 1px;
+    background-color: white;
+}
+
+.undermenu_icon{
+    font-size : 15px;
+    color :#7E7E7E;
+}
+
+.icon-star{
+    margin-left : 5px;
+}
+
+.icon-clock{
+    margin-left : 17px;
+}
+
+.icon-users{
+    margin-left : 17px;
+    color : #1266FF;
+}
+
+.icon-th{
+    margin-left : 14px;
+}
+
+.icon-paper-plane{
+    margin-left : 11px;
+}
+
+.undermenu_font{
+    font-size : 5px;
+}
+
+#under_favor, #under_recent, #under_phonebook, #under_keypad, #under_voice{
+    margin-left : 6px;
+    margin-right : 11px;
+}
+
+#under_phonebook{
+    color : #1266FF;
+    margin-left:10px;
+}
+
+#under_keypad{
+    margin-left:9px;
+}
+
+#under_voice{
+    margin-left: 2px; 
+}
+
+#phone_body{
+    height : 229px;
+    background-color : white;
+}
+
+#phone{
+}
+
+/*////////////////////////////////*/
+
+#plus{
+    text-align : right;
+    padding-right : 5px;
+}
+
+#search span{
+    margin-left : 0;
+}
+
+#search{
+    padding-left : 5px; 
+    padding-bottom : 4px;
+    border-bottom : 0.5px solid gray;
+}
+
+.phonelist{
+    font-size : 9px;
+    border-bottom : 0.6px solid gray;
+    padding : 4px;
+}
